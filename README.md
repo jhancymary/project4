@@ -12,7 +12,7 @@ Automated infrastructure deployment using Terraform.
 Performance monitoring using CloudWatch and alerts via SNS.
 
 VMware Integration:
-Established secure connectivity between VMware and AWS using AWS Direct Connect or VPN.
+Established secure connectivity between VMware and AWS using AWS Direct Connect or VPN
 
 Configured workload migration and failover mechanisms.
 Automation & Monitoring:
